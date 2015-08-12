@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def tourney_in_order(k):
   """
   Tells you the bracket for a tourney with n=2^k competitors 1-n, where 1
@@ -51,6 +50,3 @@ def next_2exp(n):
   if n <= 0:
     return -float("inf")
   return int(ceil(log(n, 2)))
-=======
-""" Initial empty file """
->>>>>>> 6f3aaec05b72af04d4cddd5bac0f4ce4a84e4838
